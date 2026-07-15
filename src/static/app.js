@@ -42,9 +42,9 @@ document.addEventListener("DOMContentLoaded", () => {
           ${participantsList}
         </div>
       `;
-
+      
       activitiesList.appendChild(activityCard);
-
+      
       const option = document.createElement("option");
       option.value = name;
       option.textContent = name;
