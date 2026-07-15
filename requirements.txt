@@ -1,5 +1,6 @@
-pytext
+
 fastapi
 uvicorn
 httpx
 watchfiles
+pytest
