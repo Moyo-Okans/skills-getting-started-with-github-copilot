@@ -1,3 +1,4 @@
+pytext
 fastapi
 uvicorn
 httpx
